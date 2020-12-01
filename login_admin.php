@@ -1,16 +1,3 @@
-<?php
-session_start();
-include 'config.php';
-if ( $_SESSION['']) {
-    ;
-  
-}else {
-  echo "Login Gagal:(";
-       header("location:index.php");}
-
-
-?>
-
 <!DOCTYPE html>
 <html>
 
